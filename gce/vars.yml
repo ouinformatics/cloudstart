@@ -1,0 +1,5 @@
+- service_account_email: unique-id@developer.gserviceaccount.com
+- pem_file: auth.pem
+- project_id: someproject
+- machine_type: g1-small
+- image: ubuntu-14-10
